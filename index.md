@@ -5,26 +5,15 @@
   </head>
   <body>
 
-<div class="body-image">
-            <img src="{{ site.baseurl }}/stealing-a-car.jpg" alt="cover pic">
-        </div>
-
  <p>In the heart of Melbourne, amidst its bustling lanes and towering skyscrapers, there’s a silent battle brewing—not for land, but for the spaces in-between: the parking spots. As trivial as it might sound to an outsider, for Melburnians, the availability of parking is more than just a daily inconvenience; it is a pulse by which the health of its urban lifestyle can be measured. A detailed investigation into the parking availability across Melbourne's neighborhoods has unearthed some stark revelations about how something as mundane as parking can dramatically shape urban living.</p>
      <br>
-    
-  
-   <h2> The choropleth map</h2>
-    
- <div class="body-image">
-            <img src="{{ site.baseurl }}/mapplot.png" alt="map plot pic">
-        </div>
+     
 <h2>Unpacking the Data</h2>
   <p>The journey begins with a stroll through Melbourne's Central Business District (CBD), where parking spots glitter like rare gems be it Private, Residential or commercial. Using sophisticated heat maps to analyze data from various neighborhoods, a pattern emerges—a high concentration of parking availability in the CBD juxtaposed starkly against the sparse parking zones of the burgeoning suburbs.</p>
 <br>
-<h2>The Polar Bar</h2>
-<div class="body-image">
-            <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
-        </div>
+ <div class="body-image">
+   <iframe src="{{ site.baseurl }}/interactive_plot.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
+ </div>
 <p>The heat map highlights areas with the highest and lowest availability of parking spaces. The deep red zones indicate high density, primarily concentrated in Melbourne’s CBD, while lighter shades depict suburban and peripheral areas.
 And upon selecting the different types the bulk of commercial parkings are highlighted at the city center and the widespreadness of private parking throughout the city is noticeable.</p>
 <br>
