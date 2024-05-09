@@ -71,7 +71,7 @@ As Professor James Barclay of RMIT University points out, "Innovative urban plan
  
    </p>
 <br>
-<h4>To get additional details please find the explainer notebook <a href="https://drive.google.com/drive/folders/188BkuoIb17AdEPmtgsH9VERn-nMNXH8H?usp=sharing">Here</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/188BkuoIb17AdEPmtgsH9VERn-nMNXH8H?usp=sharing">Click Here</a> To get additional details please find the explainer notebook useful</h4>
 <br>
    <h3>References</h3>
         <hr>
