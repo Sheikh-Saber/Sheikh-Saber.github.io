@@ -21,7 +21,7 @@ And upon selecting the different types the bulk of commercial parkings are highl
 <p>
   On any given weekday, the ballet of cars in and out of parking bays is not just a dance of convenience but one of commerce. Shops and services located in high-density parking zones report up to 30% more foot traffic compared to those in areas where parking is scarce. In contrast, shops in parking-starved locales tell a different story—one of struggle and the constant quest for visibility.
 <br>
-“Parking is the lifeline of retail. Without it, even the best of businesses can fade into the background,” shares Mia Chen, a local café owner whose thriving business owes much to the ample parking that dots her street. Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist .(Ref : https://streets-alive-yarra.org/wp-content/uploads/080000_Alison_Lee-What-is-the-economic-contribution-of-cyclists.pdf)
+“Parking is the lifeline of retail. Without it, even the best of businesses can fade into the background,” shares Mia Chen, a local café owner whose thriving business owes much to the ample parking that dots her street. Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist.
 <br>
 "The availability of parking is often the first factor that determines whether a shopper chooses one location over another," explains Dr. Helen Johnson, an urban economist at the University of Melbourne. "Especially in retail, accessibility equals viability."
 
@@ -75,9 +75,9 @@ As Professor James Barclay of RMIT University points out, "Innovative urban plan
  
    </p>
 <br>
-   <h3>References we found helpful:</h3>
+   <h3>References</h3>
         <hr>
-        <p><a href="https://projects.sfchronicle.com/2018/sf-car-breakins/">[1] San Francisco vehicle break in</a></p>
-        <p><a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783">[2]San Francisco Police Department (SFPD) data</a></p>
+        <p><a href="[https://projects.sfchronicle.com/2018/sf-car-breakins/](https://streets-alive-yarra.org/wp-content/uploads/080000_Alison_Lee-What-is-the-economic-contribution-of-cyclists.pdf)">[1] Economic Contribution of Cyclists</a></p>
+        <p><a href="[https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783](https://data.melbourne.vic.gov.au/explore/dataset/off-street-car-parks-with-capacity-and-type/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJwYXJraW5nX3NwYWNlcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJjZW5zdXNfeWVhciIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoicGFya2luZ19zcGFjZXMiLCJzdGFja2VkIjoibm9ybWFsIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJvZmYtc3RyZWV0LWNhci1wYXJrcy13aXRoLWNhcGFjaXR5LWFuZC10eXBlIiwib3B0aW9ucyI6eyJiYXNlbWFwIjoibWJzLTdhNzMzMyIsImxvY2F0aW9uIjoiMTMsLTM3LjgxMjk4LDE0NC45NDUyOSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&location=12,-37.81298,144.94529&basemap=mbs-7a7333)">[2] Melbourne's Census of Land Use and Employment (CLUE) data on parking</a></p>
 
   
