@@ -11,9 +11,9 @@
 <h2>Unpacking the Data</h2>
   <p>The journey begins with a stroll through Melbourne's Central Business District (CBD), where parking spots glitter like rare gems be it Private, Residential or commercial. Using sophisticated heat maps to analyze data from various neighborhoods, a pattern emerges—a high concentration of parking availability in the CBD juxtaposed starkly against the sparse parking zones of the burgeoning suburbs.</p>
 <br>
- <div class="body-image">
+   
    <iframe src="{{ site.baseurl }}/interactive_plot.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
- </div>
+   
 <p>The heat map highlights areas with the highest and lowest availability of parking spaces. The deep red zones indicate high density, primarily concentrated in Melbourne’s CBD, while lighter shades depict suburban and peripheral areas.
 And upon selecting the different types the bulk of commercial parkings are highlighted at the city center and the widespreadness of private parking throughout the city is noticeable.</p>
 <br>
