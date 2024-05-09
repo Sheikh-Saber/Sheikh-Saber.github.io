@@ -24,8 +24,11 @@ And upon selecting the different types the bulk of commercial parkings are highl
 “Parking is the lifeline of retail. Without it, even the best of businesses can fade into the background,” shares Mia Chen, a local café owner whose thriving business owes much to the ample parking that dots her street. Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist.
 <br>
 "The availability of parking is often the first factor that determines whether a shopper chooses one location over another," explains Dr. Helen Johnson, an urban economist at the University of Melbourne. "Especially in retail, accessibility equals viability."
-
+  <br>
+<div class="body-image">
+            <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
                Figure 2: Pedestrian Network of Melbourne
+</div>
 *This graph illustrates the relationship between the number of parking spaces and average daily visitors to local businesses, showcasing a clear positive correlation.*
 
 </p>
@@ -38,29 +41,22 @@ A 2019 report from the Melbourne Urban Development Authority remarks, "With ever
   <br>
 A 2019 study by the Melbourne Urban Development Authority confirms, "Areas with increased parking facilities have seen a 20% rise in new housing developments compared to those with limited parking" (Melbourne Urban Development Authority, 2019).
 
-
-
-
-   Figure 3: Scatter Plot of Residential Growth vs. Parking Availability
+<div class="body-image">
+            <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
+            Figure 3: Scatter Plot of Residential Growth vs. Parking Availability
 ________________________________________________________(Add last plot with html)
+  
+</div>
 Data indicates a trend where regions with more parking availability see higher rates of residential development.
 
 </p>
-    
-<h2>The Polar Bar</h2>
-<div class="body-image">
-            <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
-        </div>
+
 <h2>The Hidden Costs of Convenience</h2>
   <p>The convenience of parking spaces, however, casts long shadows over environmental sustainability. More parking spaces mean more cars and, inevitably, more emissions. Neighborhoods designed around cars rather than people compromise on green spaces and community connectivity, altering the urban fabric.<br>
 Sarah Thompson, the Director of Sustainable City Initiatives, warns, “Every square meter dedicated to parking is a piece of the ecosystem disrupted, a stretch of greenery curtailed. We must balance growth with green.”
 </p>
     <br>
-
-<h2>The Interactive plot</h2>
     
-<iframe src="{{ site.baseurl }}/interactive_plot.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
-
   <h2>Looking Forward: Urban Planning Implications</h2>
  <p>Melbourne faces a challenge: balancing the need for parking with sustainable urban development. Innovative solutions such as multi-level parking, shared parking initiatives, and improved public transport could alleviate some pressures without sacrificing growth.
 <br>
