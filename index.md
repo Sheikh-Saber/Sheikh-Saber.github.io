@@ -1,8 +1,7 @@
 <html lang="EN">
   <head>
-  <h1 style="font-family:garamond; font: size 12px;">Social Data Analysis and Visualization - Final Project "The Viz and the Notebook" </h1>
+  <h1 style="font-family:garamond; font: size 12px;">Space in the City: How Parking Accessibility Influences Melbourne's Urban Pulse </h1>
   <h1 style="color:grey; font-family:Helvetica; font-style:italic; font-size:12px">May 07, 2024</h1>
-  <h1 style="font-family:garamond; font: size 12px;">Space in the City: How Parking Accessibility Influences Melbourne's Urban Pulse</h1>
   </head>
   <body>
 
