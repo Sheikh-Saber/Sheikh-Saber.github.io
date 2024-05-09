@@ -92,7 +92,4 @@ As Professor James Barclay of RMIT University points out, "Innovative urban plan
         <p><a href="https://projects.sfchronicle.com/2018/sf-car-breakins/">[1] San Francisco vehicle break in</a></p>
         <p><a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783">[2]San Francisco Police Department (SFPD) data</a></p>
 
-   
-
-<h2>Contribution</h2>
-This report is a joint endeavor in which all members of our group made equal contributions in every exercise. At first Each team member was assigned to generate one plot. Then it was evaluated by other members which ensures that everyone participated actively and impartially in every stage of the assignment, ranging from the initial concept to the creation of visualizations and composition of the final report.
+  
