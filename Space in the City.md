@@ -19,11 +19,16 @@ And upon selecting the different types the bulk of commercial parkings are highl
 <br>
 <h2>The Business Of Space</h2>
 <p>
-  On any given weekday, the ballet of cars in and out of parking bays is not just a dance of convenience but one of commerce. Shops and services located in high-density parking zones report up to 30% more foot traffic compared to those in areas where parking is scarce. In contrast, shops in parking-starved locales tell a different story—one of struggle and the constant quest for visibility.
+  On any given weekday, the ballet of cars in and out of parking bays is not just a dance of convenience but one of commerce. Shops and services located in high-density parking zones report up to 30% more foot traffic compared to those in areas where parking is scarce. In contrast, malls in parking-starved locales tell a different story—one of struggle and the constant quest for visibility.
 <br>
-“Parking is the lifeline of retail. Without it, even the best of businesses can fade into the background,” shares Mia Chen, a local café owner whose thriving business owes much to the ample parking that dots her street. Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist.
+“If you want people to create business in the city you have to make it easy for them. If they can find a one-hour on-street parking space, they can come in and see me and then they may walk past a shop or a cafe. It all creates business.” shares Ms Cacopardo to CBD News, a local business owner whose thriving business owes much to the ample parking that dots her street.[[1]](#1). Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist. [[2]](#2)
+  ## References
+<a id="1">[1]</a> 
+https://www.cbdnews.com.au/lack-of-on-street-parking-leaves-many-city-goers-eager-to-get-out/
+<a id="2">[2]</a> 
+[https://www.cbdnews.com.au/lack-of-on-street-parking-leaves-many-city-goers-eager-to-get-out/](https://streets-alive-yarra.org/wp-content/uploads/080000_Alison_Lee-What-is-the-economic-contribution-of-cyclists.pdf)
 <br>
-"The availability of parking is often the first factor that determines whether a shopper chooses one location over another," explains Dr. Helen Johnson, an urban economist at the University of Melbourne. "Especially in retail, accessibility equals viability."
+"The availability of parking is often the first factor that determines whether a shopper chooses one location over another," explains Dr. Helen Johnson, an urban economist at the University of Melbourne. "Especially in retail, accessibility equals viability." 
   <br>
 <div class="body-image">
             <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
@@ -44,7 +49,6 @@ A 2019 study by the Melbourne Urban Development Authority confirms, "Areas with 
 <div class="body-image">
             <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
             Figure 3: Scatter Plot of Residential Growth vs. Parking Availability
-________________________________________________________(Add last plot with html)
   
 </div>
 Data indicates a trend where regions with more parking availability see higher rates of residential development.
