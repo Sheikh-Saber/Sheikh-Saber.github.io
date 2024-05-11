@@ -23,7 +23,6 @@ And upon selecting the different types the bulk of commercial parkings are highl
 <br>
 “If you want people to create business in the city you have to make it easy for them. If they can find a one-hour on-street parking space, they can come in and see me and then they may walk past a shop or a cafe. It all creates business.” shares Ms Cacopardo to CBD News, a local business owner whose thriving business owes much to the ample parking that dots her street.[[1]](#1). Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist. [[2]](#2)
 <br>
-"The availability of parking is often the first factor that determines whether a shopper chooses one location over another," explains Dr. Helen Johnson, an urban economist at the University of Melbourne. "Especially in retail, accessibility equals viability." 
   <br>
 <div class="body-image">
             <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
@@ -37,7 +36,7 @@ And upon selecting the different types the bulk of commercial parkings are highl
 <p>
   The ripple effects of parking availability stretch far beyond the city center, influencing the very way Melbourne grows. New housing developments in areas with plentiful parking are burgeoning, drawing families seeking both affordability and accessibility. Yet, this sprawl is not without its consequences—extending the city limits and straining its resources and infrastructure.
   <br>
-A 2019 report from the Melbourne Urban Development Authority remarks, "With every new parking lot, the city stretches a bit further, making us rethink what it means to be urban." New housing developments in Melbourne’s outer suburbs often feature ample parking, attracting families looking for affordability and convenience.
+As ordinary drivers spend an average of 17 hours a year searching for parking spots and to cope up With every new parking lot, the city stretches a bit further, making us rethink what it means to be urban.[[3]]New housing developments in Melbourne’s outer suburbs often feature ample parking, attracting families looking for affordability and convenience.
   <br>
 A 2019 study by the Melbourne Urban Development Authority confirms, "Areas with increased parking facilities have seen a 20% rise in new housing developments compared to those with limited parking" (Melbourne Urban Development Authority, 2019).
 
@@ -78,5 +77,6 @@ As Professor James Barclay of RMIT University points out, "Innovative urban plan
 <p><a href="[https://projects.sfchronicle.com/2018/sf-car-breakins/](https://streets-alive-yarra.org/wp-content/uploads/080000_Alison_Lee-What-is-the-economic-contribution-of-cyclists.pdf)">[1] Economic Contribution of Cyclists</a></p>
 
 <p><a href="[https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783](https://data.melbourne.vic.gov.au/explore/dataset/off-street-car-parks-with-capacity-and-type/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJwYXJraW5nX3NwYWNlcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJjZW5zdXNfeWVhciIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoicGFya2luZ19zcGFjZXMiLCJzdGFja2VkIjoibm9ybWFsIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJvZmYtc3RyZWV0LWNhci1wYXJrcy13aXRoLWNhcGFjaXR5LWFuZC10eXBlIiwib3B0aW9ucyI6eyJiYXNlbWFwIjoibWJzLTdhNzMzMyIsImxvY2F0aW9uIjoiMTMsLTM3LjgxMjk4LDE0NC45NDUyOSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&location=12,-37.81298,144.94529&basemap=mbs-7a7333)">[2] Melbourne's Census of Land Use and Employment (CLUE) data on parking</a></p>
+<p><a href="[https://eu.usatoday.com/story/money/2017/07/12/parking-pain-causes-financial-and-personal-strain/467637001/]>[1] Drivers spend an average of 17 hours a year searching for parking spots</a></p>
 
   
