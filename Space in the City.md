@@ -38,7 +38,7 @@ And upon selecting the different types the bulk of commercial parkings are highl
   <br>
 As ordinary drivers spend an average of 17 hours a year searching for parking spots and to cope up With every new parking lot, the city stretches a bit further, making us rethink what it means to be urban.[[3]]New housing developments in Melbourne’s outer suburbs often feature ample parking, attracting families looking for affordability and convenience.
   <br>
-A 2019 study by the Melbourne Urban Development Authority confirms, "Areas with increased parking facilities have seen a 20% rise in new housing developments compared to those with limited parking" (Melbourne Urban Development Authority, 2019).
+A study by the Victoria Transport policy institute suggests "To ensure that automobile travel is convenient and cheap most communities impose off-street parking requirements. This study indicates that these are inefficient, inequitable, and contradict other community goals." [[4]]
 
 <div class="body-image">
             <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
@@ -79,6 +79,9 @@ As Professor James Barclay of RMIT University points out, "Innovative urban plan
 <p><a href="[https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783](https://data.melbourne.vic.gov.au/explore/dataset/off-street-car-parks-with-capacity-and-type/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJwYXJraW5nX3NwYWNlcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJjZW5zdXNfeWVhciIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoicGFya2luZ19zcGFjZXMiLCJzdGFja2VkIjoibm9ybWFsIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJvZmYtc3RyZWV0LWNhci1wYXJrcy13aXRoLWNhcGFjaXR5LWFuZC10eXBlIiwib3B0aW9ucyI6eyJiYXNlbWFwIjoibWJzLTdhNzMzMyIsImxvY2F0aW9uIjoiMTMsLTM3LjgxMjk4LDE0NC45NDUyOSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&location=12,-37.81298,144.94529&basemap=mbs-7a7333)">[2] Melbourne's Census of Land Use and Employment (CLUE) data on parking</a></p>
 
 [3] Drivers spend an average of 17 hours a year searching for parking spots
-<p><a href="[https://eu.usatoday.com/story/money/2017/07/12/parking-pain-causes-financial-and-personal-strain/467637001/]>[1] Drivers spend an average of 17 hours a year searching for parking spots</a></p>
+<p><a href="[https://eu.usatoday.com/story/money/2017/07/12/parking-pain-causes-financial-and-personal-strain/467637001/]">[1] Drivers spend an average of 17 hours a year searching for parking spots</a></p>
+
+[4] Parking Requirement Impacts on Housing Affordability
+<p><a href="[https://vtpi.org/park-hou.pdf#:~:text=URL%3A%20https%3A%2F%2Fvtpi.org%2Fpark]" ></p>
 
   
