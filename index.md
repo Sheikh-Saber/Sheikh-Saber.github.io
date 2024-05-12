@@ -25,7 +25,7 @@ And upon selecting the different types the bulk of commercial parkings are highl
 <br>
   <br>
 <div class="body-image">
-            <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
+            <img src="{{ site.baseurl }}/ParkingSpaceTime.png" alt="Parking Space Over Time">
                Figure 2: Pedestrian Network of Melbourne
 </div>
 *This graph illustrates the relationship between the number of parking spaces and average daily visitors to local businesses, showcasing a clear positive correlation.*
