@@ -78,10 +78,8 @@ As Professor James Barclay of RMIT University points out, "Innovative urban plan
 
 <p><a href="[https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783](https://data.melbourne.vic.gov.au/explore/dataset/off-street-car-parks-with-capacity-and-type/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJwYXJraW5nX3NwYWNlcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJjZW5zdXNfeWVhciIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoicGFya2luZ19zcGFjZXMiLCJzdGFja2VkIjoibm9ybWFsIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJvZmYtc3RyZWV0LWNhci1wYXJrcy13aXRoLWNhcGFjaXR5LWFuZC10eXBlIiwib3B0aW9ucyI6eyJiYXNlbWFwIjoibWJzLTdhNzMzMyIsImxvY2F0aW9uIjoiMTMsLTM3LjgxMjk4LDE0NC45NDUyOSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&location=12,-37.81298,144.94529&basemap=mbs-7a7333)">[2] Melbourne's Census of Land Use and Employment (CLUE) data on parking</a></p>
 
-[3] Drivers spend an average of 17 hours a year searching for parking spots
-<p><a href="[https://eu.usatoday.com/story/money/2017/07/12/parking-pain-causes-financial-and-personal-strain/467637001/]"></a></p>
+<p><a href="[https://eu.usatoday.com/story/money/2017/07/12/parking-pain-causes-financial-and-personal-strain/467637001/]">[3] Drivers spend an average of 17 hours a year searching for parking spots</a></p>
 
-[4] Parking Requirement Impacts on Housing Affordability
-<p><a href="[https://vtpi.org/park-hou.pdf#:~:text=URL%3A%20https%3A%2F%2Fvtpi.org%2Fpark]" ></p>
+<p><a href="[https://vtpi.org/park-hou.pdf#:~:text=URL%3A%20https%3A%2F%2Fvtpi.org%2Fpark]" >[4] Parking Requirement Impacts on Housing Affordability</p>
 
   
