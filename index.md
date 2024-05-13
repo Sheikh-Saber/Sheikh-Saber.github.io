@@ -74,12 +74,12 @@ This report only scratches the surface, but it highlights the complex role parki
 
 <p><a href="[https://eu.usatoday.com/story/money/2017/07/12/parking-pain-causes-financial-and-personal-strain/467637001/]">[3] Drivers spend an average of 17 hours a year searching for parking spots</a></p>
 
-<p><a href="[https://vtpi.org/park-hou.pdf#:~:text=URL%3A%20https%3A%2F%2Fvtpi.org%2Fpark]" >[4] Parking Requirement Impacts on Housing Affordability</p>
+<p><a href="[https://vtpi.org/park-hou.pdf#:~:text=URL%3A%20https%3A%2F%2Fvtpi.org%2Fpark]">[4] Parking Requirement Impacts on Housing Affordability</a></p>
 
-<p><a href="[https://www.mdpi.com/2071-1050/14/12/7273">[5] Investigation of Parking Lot Pavements to Counteract Urban Heat Islands</p>
+<p><a href="[https://www.mdpi.com/2071-1050/14/12/7273">[5] Investigation of Parking Lot Pavements to Counteract Urban Heat Islands</a></p>
 
-<p><a href="[https://www.theguardian.com/australia-news/2023/sep/15/cant-find-a-parking-spot-meet-the-planner-who-wants-to-make-it-much-harder">[6] theguardian.com/ant-find-a-parking-spot-meet-the-planner-who-wants-to-make-it-much-harder</p>
+<p><a href="[https://www.theguardian.com/australia-news/2023/sep/15/cant-find-a-parking-spot-meet-the-planner-who-wants-to-make-it-much-harder">[6] theguardian.com/ant-find-a-parking-spot-meet-the-planner-who-wants-to-make-it-much-harder</a></p>
 
-<p><a href="[https://airqualitynews.com/headlines/greenfield-housing-estates-adding-to-traffic-congestion-and-car-dependency/">[7] airqualitynews.com/greenfield-housing-estates-adding-to-traffic-congestion-and-car-dependency</p>
+<p><a href="[https://airqualitynews.com/headlines/greenfield-housing-estates-adding-to-traffic-congestion-and-car-dependency/">[7] airqualitynews.com/greenfield-housing-estates-adding-to-traffic-congestion-and-car-dependency</a></p>
 
   
