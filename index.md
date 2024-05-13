@@ -12,9 +12,9 @@
   <p> A glance through Melbourne's Central Business Districts, where parking spots glitter like rare gems be it Private, Residential or commercial. We find the amount of parking throughout the years and their rise and falls using sophisticated line graphs to analyze data from various neighborhoods, a pattern emerges—a high concentration of parking availability in the CBD juxtaposed starkly against the sparse parking zones of the burgeoning suburbs.</p>
 <br>
    
-   <iframe src="{{ site.baseurl }}/interactive_plot.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
+   <iframe src="{{ site.baseurl }}/melbourne_parking_heatmap.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
    
-<p>The line graph showing districts with the availability of parking spaces.</p>
+<p>The Heatmap showing districts with the availability of parking spaces.</p>
 <br>
 <h2>The Business Of Space</h2>
 <p>
