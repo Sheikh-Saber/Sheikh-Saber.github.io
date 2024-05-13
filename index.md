@@ -5,11 +5,11 @@
   </head>
   <body>
 
- <p>In the heart of Melbourne, amidst its bustling lanes and towering skyscrapers, there’s a silent battle brewing—not for land, but for the spaces in-between: the parking spots. As trivial as it might sound to an outsider, for Melburnians, the availability of parking is more than just a daily inconvenience; it is a pulse by which the health of its urban lifestyle can be measured. A detailed investigation into the parking availability across Melbourne's neighborhoods has unearthed some stark revelations about how something as mundane as parking can dramatically shape urban living.</p>
+ <p>Melbourne has a criical silent battle brewing—not for land, but in its bustling lanes and towering skyscrapers for the spaces in-between: the parking spots. It may sound trivial to an outsider , for people of Melbourne the inconvenience is a daily affair for availability of parking. It can also be a criterion to judge the health of the urban lifestyle of a city .We tried to look into the parking availability across Melbourne's neighborhoods which unearthed some stark revelations about how something as mundane as parking can dramatically shape urban living.</p>
      <br>
      
 <h2>Unpacking the Data</h2>
-  <p>The journey begins with a stroll through Melbourne's Central Business District (CBD), where parking spots glitter like rare gems be it Private, Residential or commercial. Using sophisticated heat maps to analyze data from various neighborhoods, a pattern emerges—a high concentration of parking availability in the CBD juxtaposed starkly against the sparse parking zones of the burgeoning suburbs.</p>
+  <p> A glance through Melbourne's Central Business Districts, where parking spots glitter like rare gems be it Private, Residential or commercial. We find the amount of parking throughout the years and their rise and falls using sophisticated line graphs to analyze data from various neighborhoods, a pattern emerges—a high concentration of parking availability in the CBD juxtaposed starkly against the sparse parking zones of the burgeoning suburbs.</p>
 <br>
    
    <iframe src="{{ site.baseurl }}/interactive_plot.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
