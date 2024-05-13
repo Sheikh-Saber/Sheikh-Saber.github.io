@@ -51,21 +51,21 @@ Data indicates a trend where regions with more parking availability see higher r
 
 <h2>The Hidden Costs of Convenience</h2>
   <p>The convenience of parking spaces, however, casts long shadows over environmental sustainability. More parking spaces mean more cars and, inevitably, more emissions. Neighborhoods designed around cars rather than people compromise on green spaces and community connectivity, altering the urban fabric.<br>
-Sarah Thompson, the Director of Sustainable City Initiatives, warns, “Every square meter dedicated to parking is a piece of the ecosystem disrupted, a stretch of greenery curtailed. We must balance growth with green.”
+Every square meter dedicated to parking is a piece of the ecosystem disrupted, a stretch of greenery curtailed. We must balance growth with green. Even with suggestion against traditional asphalt pavements, cool pavements that are composed of alternative materials with high albedo, such physical property results in a lowering of the diurnal surface temperature and a reduction in the absorbed heat. [[5]].  The enormus increase in carbon emissions. would prove to be devastating unless sustainable alternatives are prioritized.
 </p>
     <br>
     
   <h2>Looking Forward: Urban Planning Implications</h2>
  <p>Melbourne faces a challenge: balancing the need for parking with sustainable urban development. Innovative solutions such as multi-level parking, shared parking initiatives, and improved public transport could alleviate some pressures without sacrificing growth.
 <br>
-As Professor James Barclay of RMIT University points out, "Innovative urban planning can transform parking from a problem into a part of the solution. Technologies like automated parking systems and shared vehicle facilities represent the future of urban transport."
+Parking is not a reason not to build. It is a reason to build differently. The parking expert David Mepham is part of a chorus of urban planners around the world who say the land devoted to vehicles contributes significantly to the housing affordability crisis.[[6]] However, denying people access to housing in high-demand areas only further encourages car reliance therefore increasing traffic congestion. [[7]] Is it not time to more strictly implement the law and convince developlers to build homes around walking, cycling and public transport liveing up to government aspirations ?
 <br>
    </p>
    <h2>Conclusion</h2>
    <p>
     Parking is more than just a space to leave your car; it's a pivotal element of urban infrastructure that influences economic activity, residential patterns, and environmental sustainability. Melbourne's future urban planning initiatives must consider these factors to foster a balanced, sustainable urban environment.
 <br>
-"This analysis only scratches the surface, but it highlights the complex role parking plays in shaping our cities. As we move forward, integrating sustainable practices with urban development will be key to maintaining Melbourne's status as one of the world's most livable cities," concludes Dr. Johnson.
+This analysis only scratches the surface, but it highlights the complex role parking plays in shaping our cities. As we move forward, integrating sustainable practices with urban development will be key to maintaining Melbourne's status as one of the world's most livable cities.
  
    </p>
 <br>
@@ -81,5 +81,11 @@ As Professor James Barclay of RMIT University points out, "Innovative urban plan
 <p><a href="[https://eu.usatoday.com/story/money/2017/07/12/parking-pain-causes-financial-and-personal-strain/467637001/]">[3] Drivers spend an average of 17 hours a year searching for parking spots</a></p>
 
 <p><a href="[https://vtpi.org/park-hou.pdf#:~:text=URL%3A%20https%3A%2F%2Fvtpi.org%2Fpark]" >[4] Parking Requirement Impacts on Housing Affordability</p>
+
+<p><a href="[https://www.mdpi.com/2071-1050/14/12/7273">[5] Investigation of Parking Lot Pavements to Counteract Urban Heat Islands</p>
+
+<p><a href="[https://www.theguardian.com/australia-news/2023/sep/15/cant-find-a-parking-spot-meet-the-planner-who-wants-to-make-it-much-harder">[6] theguardian.com/ant-find-a-parking-spot-meet-the-planner-who-wants-to-make-it-much-harder</p>
+
+<p><a href="[https://airqualitynews.com/headlines/greenfield-housing-estates-adding-to-traffic-congestion-and-car-dependency/">[7] airqualitynews.com/greenfield-housing-estates-adding-to-traffic-congestion-and-car-dependency</p>
 
   
