@@ -14,8 +14,7 @@
    
    <iframe src="{{ site.baseurl }}/interactive_plot.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
    
-<p>The line graph showing areas with the availability of parking spaces
-And upon selecting the different types the bulk of commercial parkings are highlighted at the city areas and the widespreadness of private parking throughout the city is noticeable.</p>
+<p>The line graph showing districts with the availability of parking spaces.</p>
 <br>
 <h2>The Business Of Space</h2>
 <p>
