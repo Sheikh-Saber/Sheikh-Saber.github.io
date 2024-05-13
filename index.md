@@ -16,6 +16,10 @@
    
 <p>The Heatmap showing districts with the availability of parking spaces.</p>
 <br>
+<p>
+  From this heatmap we can see the parking availability across Melbourne. High-density areas, shown in green, are primarily concentrated in the Central Business District (CBD), where parking demand is exceptionally high due to the dense concentration of businesses and attractions. Medium-density areas, marked in blue, are seen in surrounding neighborhoods such as Melbourne(CBD) and Parville, which still experience significant demand but have slightly better parking availability. The red areas, representing low-density parking regions such as Southbank and Docklands, are located further out in the suburbs where parking is more readily available. This visualization highlights the stark contrast in parking accessibility between the city center and the outer regions, emphasizing the need for innovative parking solutions to manage congestion and support economic activity in the CBD.
+</p>
+<br>
 <h2>The Business Of Space</h2>
 <p>
   On any given weekday, the hassel and bustle of cars in and out of parking bays may not only declare the aliveness of the city but one of commerce. Businesses located in high-density parking zones in some report states more foot traffic compared to those in areas where parking is scarce. In contrast, malls in parking-starved locales tell a different story—one of struggle and the constant quest for visibility.
