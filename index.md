@@ -18,7 +18,7 @@
 <br>
 <h2>The Business Of Space</h2>
 <p>
-  On any given weekday, the ballet of cars in and out of parking bays is not just a dance of convenience but one of commerce. Shops and services located in high-density parking zones report up to 30% more foot traffic compared to those in areas where parking is scarce. In contrast, malls in parking-starved locales tell a different story—one of struggle and the constant quest for visibility.
+  On any given weekday, the hassel and bustle of cars in and out of parking bays may not only declare the aliveness of the city but one of commerce. Businesses located in high-density parking zones in some report states more foot traffic compared to those in areas where parking is scarce. In contrast, malls in parking-starved locales tell a different story—one of struggle and the constant quest for visibility.
 <br>
 “If you want people to create business in the city you have to make it easy for them. If they can find a one-hour on-street parking space, they can come in and see me and then they may walk past a shop or a cafe. It all creates business.” shares Ms Cacopardo to CBD News, a local business owner whose thriving business owes much to the ample parking that dots her street.[[1]](#1). Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist. [[2]](#2)
 <br>
@@ -33,12 +33,7 @@
 <br>
 <h2>Urban Sprawl and the Quest for Space</h2>
 <p>
-  The ripple effects of parking availability stretch far beyond the city center, influencing the very way Melbourne grows. New housing developments in areas with plentiful parking are burgeoning, drawing families seeking both affordability and accessibility. Yet, this sprawl is not without its consequences—extending the city limits and straining its resources and infrastructure.
-  <br>
-As ordinary drivers spend an average of 17 hours a year searching for parking spots and to cope up With every new parking lot, the city stretches a bit further, making us rethink what it means to be urban.[[3]]New housing developments in Melbourne’s outer suburbs often feature ample parking, attracting families looking for affordability and convenience.
-  <br>
-A study by the Victoria Transport policy institute suggests "To ensure that automobile travel is convenient and cheap most communities impose off-street parking requirements. This study indicates that these are inefficient, inequitable, and contradict other community goals." [[4]]
-
+  c
 <div class="body-image">
             <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
             Figure 3: Scatter Plot of Residential Growth vs. Parking Availability
@@ -49,22 +44,22 @@ Data indicates a trend where regions with more parking availability see higher r
 </p>
 
 <h2>The Hidden Costs of Convenience</h2>
-  <p>The convenience of parking spaces, however, casts long shadows over environmental sustainability. More parking spaces mean more cars and, inevitably, more emissions. Neighborhoods designed around cars rather than people compromise on green spaces and community connectivity, altering the urban fabric.<br>
-Every square meter dedicated to parking is a piece of the ecosystem disrupted, a stretch of greenery curtailed. We must balance growth with green. Even with suggestion against traditional asphalt pavements, cool pavements that are composed of alternative materials with high albedo, such physical property results in a lowering of the diurnal surface temperature and a reduction in the absorbed heat. [[5]].  The enormus increase in carbon emissions. would prove to be devastating unless sustainable alternatives are prioritized.
+  <p>The convenience of parking spaces, however, casts long shadows over environmental sustainability. More parking spaces means more cars and, inevitably, more carbon emissions. Neighborhoods designed around cars rather than people compromise on green spaces and community connectivity, altering the urban fabric.<br>
+Every square meter dedicated to parking is a piece of the ecosystem disrupted, a stretch of greenery curtailed. We must balance growth with green. Even with suggestion against traditional asphalt pavements, cool pavements that are composed of alternative materials with high albedo, such physical property results in a lowering of the diurnal surface temperature and a reduction in the absorbed heat. [[5]].  The enormous increase in carbon emissions. would prove to be devastating unless sustainable alternatives are prioritized.
 </p>
     <br>
     
   <h2>Looking Forward: Urban Planning Implications</h2>
- <p>Melbourne faces a challenge: balancing the need for parking with sustainable urban development. Innovative solutions such as multi-level parking, shared parking initiatives, and improved public transport could alleviate some pressures without sacrificing growth.
+ <p>Melbourne faces bigger challenge of balancing the need for parking with sustainable urban development. Innovative solutions such as multi-level parking, shared parking initiatives, and improved public transport could alleviate some pressures without sacrificing growth.
 <br>
 Parking is not a reason not to build. It is a reason to build differently. The parking expert David Mepham is part of a chorus of urban planners around the world who say the land devoted to vehicles contributes significantly to the housing affordability crisis.[[6]] However, denying people access to housing in high-demand areas only further encourages car reliance therefore increasing traffic congestion. [[7]] Is it not time to more strictly implement the law and convince developlers to build homes around walking, cycling and public transport liveing up to government aspirations ?
 <br>
    </p>
    <h2>Conclusion</h2>
    <p>
-    Parking is more than just a space to leave your car; it's a pivotal element of urban infrastructure that influences economic activity, residential patterns, and environmental sustainability. Melbourne's future urban planning initiatives must consider these factors to foster a balanced, sustainable urban environment.
+    Even though parking is more than just a space to leave your car and an  essential element of cuurent society; it's a pivotal element of urban infrastructure that influences economic activity, residential patterns, and environmental sustainability. It impacts peoples choice of transportation and frequency of use. Melbourne's future urban planning have to consider these factors to have a balanced, sustainable urban environment.
 <br>
-This analysis only scratches the surface, but it highlights the complex role parking plays in shaping our cities. As we move forward, integrating sustainable practices with urban development will be key to maintaining Melbourne's status as one of the world's most livable cities.
+This report only scratches the surface, but it highlights the complex role parking plays in shaping modern cities. As we move forward, integrating sustainable practices with urban development will be key to maintaining Melbourne's status as one of the world's most livable cities.
  
    </p>
 <br>
