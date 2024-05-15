@@ -27,8 +27,8 @@
 “If you want people to create business in the city you have to make it easy for them. If they can find a one-hour on-street parking space, they can come in and see me and then they may walk past a shop or a cafe. It all creates business.” shares Ms Cacopardo to CBD News, a local business owner whose thriving business owes much to the ample parking that dots her street.[[1]](#1). Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist. [[2]](#2)
 <br>
   <br>
-<div class="body-image">
-            <img src="{{ site.baseurl }}/ParkingSpaceTime.png" alt="Parking Space Over Time">
+<iframe src="{{ site.baseurl }}/pedestrain_Network.html" style="width: 100%; height: 360px; display: block; margin-left: auto; margin-right: auto;"></iframe>
+  <br>
                Figure 2: Pedestrian Network of Melbourne
 </div>
 *This graph illustrates the relationship between the number of parking spaces and average daily visitors to local businesses, showcasing a clear positive correlation.*
