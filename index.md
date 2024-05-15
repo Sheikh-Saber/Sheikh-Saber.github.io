@@ -27,7 +27,7 @@
 “If you want people to create business in the city you have to make it easy for them. If they can find a one-hour on-street parking space, they can come in and see me and then they may walk past a shop or a cafe. It all creates business.” shares Ms Cacopardo to CBD News, a local business owner whose thriving business owes much to the ample parking that dots her street.[[1]](#1). Even though some research opposingly suggests higher potential of buyers among pedestrian and cyclist. [[2]](#2)
 <br>
   <br>
-<iframe src="{{ site.baseurl }}/pedestrain_Network.html" style="width: 100%; height: 360px; display: block; margin-left: auto; margin-right: auto;"></iframe>
+<iframe src="{{ site.baseurl }}/melbourne_pedestrian_network.html" style="width: 100%; height: 360px; display: block; margin-left: auto; margin-right: auto;"></iframe>
   <br>
                Figure 2: Pedestrian Network of Melbourne
 </div>
@@ -37,12 +37,9 @@
 <br>
 <h2>Urban Sprawl and the Quest for Space</h2>
 <p>
-  c
-<div class="body-image">
-            <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
-            Figure 3: Scatter Plot of Residential Growth vs. Parking Availability
-  
-</div>
+  <br>
+<iframe src="{{ site.baseurl }}/Residential_vs_Parking_Map.html" style="width: 100%; height: 360px; display: block; margin-left: auto; margin-right: auto;"></iframe>
+  <br>
 Data indicates a trend where regions with more parking availability see higher rates of residential development.
 
 </p>
