@@ -37,10 +37,13 @@
 <br>
 <h2>Urban Sprawl and the Quest for Space</h2>
 <p>
+  With further availability of parking and other facilities towards the city centre, new housing projects are growing attracting people from seeking assessability. This rising speawl only push the city limits, straining its resources and infrastructure.<br>
+  <br>
+<p>
   <br>
 <iframe src="{{ site.baseurl }}/Residential_vs_Parking_Map.html" style="width: 100%; height: 360px; display: block; margin-left: auto; margin-right: auto;"></iframe>
   <br>
-Data indicates a trend where regions with more parking availability see higher rates of residential development.
+Data indicates a trend where regions with more parking availability see higher rates of residential development. 
 
 </p>
 
